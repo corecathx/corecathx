@@ -1,6 +1,4 @@
 # About
-<img style="float: right;" src="https://cdn.discordapp.com/attachments/1172878696844111892/1191346834837344396/20240101_184645.png">
-
 Hello, i'm CoreCat (a.k.a Core5570R), i do coding stuff for fun.\
 Currently 16 y/o.
 
