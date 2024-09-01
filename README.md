@@ -9,10 +9,7 @@ them is just Friday Night Funkin' Mods Stuff heheh.
 
 # Statistics
 > My GitHub stuffs\
-![](https://github-readme-stats.vercel.app/api?username=Core5570RYT&show_icons=true&theme=radical)
-
-> Current project i'm working on\
-![](https://github-readme-stats.vercel.app/api/pin/?username=Core5570RYT&&repo=FNF-CDEV-Engine&cache_seconds=120000&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=corecathx&show_icons=true&theme=radical)
 
 > Most used programming languages\
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Core5570RYT&layout=compact&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=corecathx&layout=compact&show_icons=true&theme=radical)
